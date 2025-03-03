@@ -1,0 +1,5 @@
+I have made a very interesting Simon game in which I have added 3 difficulty levels.
+
+First one is an easy level which is very easy to beat.
+In second level I increased the speed of generation of pattern by decreasing the time for which setInterval runs.
+And then comes this 3rd and most difficult level in which you have to guess the pattern by sound itself. You won't be shown which colour is selected internally. But the catch is that every colour is associated with a sound of fixed frequency, so first get comfortble with the sounds of these buttons by playing level 1 and 2. Then try hitting this level. This will not only increase you memorization power, but also increase focus with which you hear what is spoken. This could be a game changer for your mental stability, patience and most importantly the memorization. (Musicians will find it a bit easy😉)
